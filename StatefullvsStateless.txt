@@ -1,0 +1,5 @@
+statefull ->
+
+1. if server goes restart all user logiut 
+2. statfull auth is memory authentication
+3. server has limited memory
